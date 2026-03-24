@@ -19,6 +19,8 @@
 | Registro de tareas| 10 días |
 | Acceso de usuarios| 7 días |
 
+(D) Buenas tardes a todos, disculpen la demora en contestar he tenido problemas de conexión ultimamente
+
 # Descripción
 
 ### 1. Definición del problema a resolver:
