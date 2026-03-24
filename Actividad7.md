@@ -19,6 +19,8 @@
 | Registro de tareas| 10 días |
 | Acceso de usuarios| 7 días |
 
+(D) Disculpe es que se me fue la conección y por eso no conteste
+
 # Descripción
 
 ### 1. Definición del problema a resolver:
